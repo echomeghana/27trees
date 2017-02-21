@@ -104,7 +104,7 @@ Lightslider activation For Single room
 /*--------------------------------------
 WOW JS
 --------------------------------------*/
-new WOW().init();
-
+/*new WOW().init();
+*/
 
 })(jQuery); 
